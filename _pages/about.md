@@ -9,7 +9,7 @@ layouts_gallery:
 - url: "/assets/images/mm-layout-single-meta.png"
   image_path: "/assets/images/mm-layout-single-meta.png"
   alt: single layout with comments and related posts
-- url: "/assets/images/mm-layout-archive.png"
+- url: "/images/20211018_002721_remastered.jpg"
   image_path: "/images/20210802_175636.jpg"
   alt: archive layout example
 last_modified_at: 2020-05-01T10:15:22.000-04:00
