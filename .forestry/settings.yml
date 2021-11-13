@@ -11,7 +11,7 @@ sections:
 - type: directory
   path: _pets
   label: Pets
-  create: documents
+  create: all
   match: "*.md"
 - type: heading
   label: Jekyll
